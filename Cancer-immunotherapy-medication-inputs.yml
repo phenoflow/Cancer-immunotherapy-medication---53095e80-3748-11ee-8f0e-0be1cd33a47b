@@ -1,0 +1,60 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/cancer-immunotherapy-medication-100mg---primary.py
+inputModule3:
+  class: File
+  path: python/cancer-immunotherapy-medication-150mg---primary.py
+inputModule4:
+  class: File
+  path: python/cancer-immunotherapy-medication-rituximab---primary.py
+inputModule5:
+  class: File
+  path: python/cancer-immunotherapy-medication-trastuzumab---primary.py
+inputModule6:
+  class: File
+  path: python/cancer-immunotherapy-medication-mabcampath---primary.py
+inputModule7:
+  class: File
+  path: python/cancer-immunotherapy-medication-erbitux---primary.py
+inputModule8:
+  class: File
+  path: python/cancer-immunotherapy-medication-cetuximab---primary.py
+inputModule9:
+  class: File
+  path: python/cancer-immunotherapy-medication-500mg---primary.py
+inputModule10:
+  class: File
+  path: python/cancer-immunotherapy-medication-alemtuzumab---primary.py
+inputModule11:
+  class: File
+  path: python/cancer-immunotherapy-medication-600mg---primary.py
+inputModule12:
+  class: File
+  path: python/cancer-immunotherapy-medication-concentrate---primary.py
+inputModule13:
+  class: File
+  path: python/cancer-immunotherapy-medication-120mg---primary.py
+inputModule14:
+  class: File
+  path: python/cancer-immunotherapy-medication-ipilimumab---primary.py
+inputModule15:
+  class: File
+  path: python/cancer-immunotherapy-medication-200mg---primary.py
+inputModule16:
+  class: File
+  path: python/cancer-immunotherapy-medication-infusion---primary.py
+inputModule17:
+  class: File
+  path: python/cancer-immunotherapy-medication-truxima---primary.py
+inputModule18:
+  class: File
+  path: python/cancer-immunotherapy-medication-denosumab---primary.py
+inputModule19:
+  class: File
+  path: python/cancer-immunotherapy-medication-bevacizumab---primary.py
+inputModule20:
+  class: File
+  path: python/output-cases.py
